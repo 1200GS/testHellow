@@ -1,6 +1,6 @@
 <?php
 
-echo "
+echo '
 
 
 <style>
@@ -165,10 +165,7 @@ $(".subscribe-button").click(function(){
 <span class="to-fade-in">
   Sent!
 </span>
-</span>
 
 
-
-
-"; 
+'; 
 
